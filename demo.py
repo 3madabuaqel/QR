@@ -85,12 +85,7 @@ class QrImage(tk.Canvas):
     def clear(self):
         self.delete('all')
 
-print('hi')
-print('hi')
-print('hi')
-print('hi')
-print('hi')
-print('hi')
+
 
 App()
 
