@@ -86,6 +86,7 @@ class QrImage(tk.Canvas):
         self.delete('all')
 
 print('hi')
+
 App()
 
 
